@@ -5,7 +5,7 @@ Solutions in C, Java, JavaScript and Python
 | Day	| Challenge	| Solution |
 | :---: | :---: | :---: | 
 | 0 | Hello, World | [Solution](https://github.com/GabrielaAnjos/HackerRank-30-Days-of-Code/tree/main/Day%200%20-%20Hello%2C%20World) |
-| 1 | Data Types | soon |
+| 1 | Data Types | [Solution](https://github.com/GabrielaAnjos/HackerRank-30-Days-of-Code/tree/main/Day%201%20-%20Data%20Types) |
 | 2 | Operators | soon |
 | 3 | Intro to Conditional Statements | soon |
 | 4 | Class vs. Instance | soon |
