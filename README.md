@@ -9,8 +9,8 @@ Solutions in C, Java, JavaScript and Python
 | 2 | Operators | [Solution](https://github.com/GabrielaAnjos/HackerRank-30-Days-of-Code/tree/main/Day%202%20-%20Operators) |
 | 3 | Intro to Conditional Statements | [Solution](https://github.com/GabrielaAnjos/HackerRank-30-Days-of-Code/tree/main/Day%203%20-Intro%20to%20Conditional%20Statements) |
 | 4 | Class vs. Instance | [Solution](https://github.com/GabrielaAnjos/HackerRank-30-Days-of-Code/tree/main/Day%204%20-%20Class%20vs.%20Instance) |
-| 5 | Loops | soon |
-| 6 | Let's Review | soon |
+| 5 | Loops | [Solution](https://github.com/GabrielaAnjos/HackerRank-30-Days-of-Code/tree/main/Day%205%20-%20Loops) |
+| 6 | Let's Review | [Solution](https://github.com/GabrielaAnjos/HackerRank-30-Days-of-Code/tree/main/Day%206%20-%20Lets%20Review) |
 | 7 | Arrays | soon |
 | 8 | Dictionaries and Maps | soon |
 | 9 | Recursion 3 | soon |
