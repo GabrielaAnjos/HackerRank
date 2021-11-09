@@ -8,7 +8,7 @@ Solutions in C, Java, JavaScript and Python
 | 1 | Data Types | [Solution](https://github.com/GabrielaAnjos/HackerRank-30-Days-of-Code/tree/main/Day%201%20-%20Data%20Types) |
 | 2 | Operators | [Solution](https://github.com/GabrielaAnjos/HackerRank-30-Days-of-Code/tree/main/Day%202%20-%20Operators) |
 | 3 | Intro to Conditional Statements | [Solution](https://github.com/GabrielaAnjos/HackerRank-30-Days-of-Code/tree/main/Day%203%20-Intro%20to%20Conditional%20Statements) |
-| 4 | Class vs. Instance | soon |
+| 4 | Class vs. Instance | [Solution](https://github.com/GabrielaAnjos/HackerRank-30-Days-of-Code/tree/main/Day%204%20-%20Class%20vs.%20Instance) |
 | 5 | Loops | soon |
 | 6 | Let's Review | soon |
 | 7 | Arrays | soon |
