@@ -16,11 +16,11 @@ Solutions in C, Java, JavaScript and Python
 | 9 | [Recursion 3](https://www.hackerrank.com/challenges/30-recursion) | [Solution](https://github.com/GabrielaAnjos/HackerRank/tree/main/30-Days-of-Code/Day%209%20-%20Recursion%203) |
 | 10 | [Binary Numbers](https://www.hackerrank.com/challenges/30-binary-numbers) | [Solution](https://github.com/GabrielaAnjos/HackerRank/tree/main/30-Days-of-Code/Day%2010%20-%20Binary%20Numbers) |
 | 11 | [2D Arrays](https://www.hackerrank.com/challenges/30-2d-arrays) | [Solution](https://github.com/GabrielaAnjos/HackerRank/tree/main/30-Days-of-Code/Day%2011%20-%202D%20Arrays) |
-| 12 | [Inheritance](https://www.hackerrank.com/challenges/30-inheritance) | soon |
-| 13 | [Abstract Classes](https://www.hackerrank.com/challenges/30-abstract-classes) | soon |
-| 14 | [Scope](https://www.hackerrank.com/challenges/30-scope) | soon |
+| 12 | [Inheritance](https://www.hackerrank.com/challenges/30-inheritance) | [Solution](https://github.com/GabrielaAnjos/HackerRank/tree/main/30-Days-of-Code/Day%2012%20-%20Inheritance) |
+| 13 | [Abstract Classes](https://www.hackerrank.com/challenges/30-abstract-classes) | [Solution](https://github.com/GabrielaAnjos/HackerRank/tree/main/30-Days-of-Code/Day%2013%20-%20Abstract%20Classes) |
+| 14 | [Scope](https://www.hackerrank.com/challenges/30-scope) | [Solution](https://github.com/GabrielaAnjos/HackerRank/tree/main/30-Days-of-Code/Day%2014%20-%20Scope) |
 | 15 | [Linked List](https://www.hackerrank.com/challenges/30-linked-list) | soon |
-| 16 | Exceptions - String to Integer | soon |
+| 16 | [Exceptions - String to Integer](https://www.hackerrank.com/challenges/30-exceptions-string-to-integer/problem) | soon |
 | 17 | More Exceptions | soon |
 | 18 | Queues and Stacks | soon |
 | 19 | Interfaces | soon |
