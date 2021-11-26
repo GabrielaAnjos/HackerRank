@@ -19,14 +19,14 @@ Solutions in C, Java, JavaScript and Python
 | 12 | [Inheritance](https://www.hackerrank.com/challenges/30-inheritance) | [Solution](https://github.com/GabrielaAnjos/HackerRank/tree/main/30-Days-of-Code/Day%2012%20-%20Inheritance) |
 | 13 | [Abstract Classes](https://www.hackerrank.com/challenges/30-abstract-classes) | [Solution](https://github.com/GabrielaAnjos/HackerRank/tree/main/30-Days-of-Code/Day%2013%20-%20Abstract%20Classes) |
 | 14 | [Scope](https://www.hackerrank.com/challenges/30-scope) | [Solution](https://github.com/GabrielaAnjos/HackerRank/tree/main/30-Days-of-Code/Day%2014%20-%20Scope) |
-| 15 | [Linked List](https://www.hackerrank.com/challenges/30-linked-list) | soon |
-| 16 | [Exceptions - String to Integer](https://www.hackerrank.com/challenges/30-exceptions-string-to-integer/problem) | soon |
-| 17 | More Exceptions | soon |
-| 18 | Queues and Stacks | soon |
-| 19 | Interfaces | soon |
-| 20 | Sorting | soon |
-| 21 | Generics | soon |
-| 22 | Binary Search Trees | soon |
+| 15 | [Linked List](https://www.hackerrank.com/challenges/30-linked-list) | [Solution](https://github.com/GabrielaAnjos/HackerRank/tree/main/30-Days-of-Code/Day%2015%20-%20Linked%20List) |
+| 16 | [Exceptions - String to Integer](https://www.hackerrank.com/challenges/30-exceptions-string-to-integer/problem) | [Solution](https://github.com/GabrielaAnjos/HackerRank/tree/main/30-Days-of-Code/Day%2016%20-%20Exceptions%20-%20String%20to%20Integer) |
+| 17 | [More Exceptions](https://www.hackerrank.com/challenges/30-more-exceptions?isFullScreen=true) | [Solution](https://github.com/GabrielaAnjos/HackerRank/tree/main/30-Days-of-Code/Day%2017%20-%20More%20Exceptions) |
+| 18 | [Queues and Stacks](https://www.hackerrank.com/challenges/30-queues-stacks?isFullScreen=true) | [Solution](https://github.com/GabrielaAnjos/HackerRank/tree/main/30-Days-of-Code/Day%2018%20-%20Queues%20and%20Stacks) |
+| 19 | [Interfaces](https://www.hackerrank.com/challenges/30-interfaces?isFullScreen=true) | [Solution](https://github.com/GabrielaAnjos/HackerRank/tree/main/30-Days-of-Code/Day%2019%20-%20Interfaces) |
+| 20 | [Sorting](https://www.hackerrank.com/challenges/30-sorting?isFullScreen=true) | soon |
+| 21 | [Generics](https://www.hackerrank.com/challenges/30-generics?isFullScreen=true) | soon |
+| 22 | [Binary Search Trees](https://www.hackerrank.com/challenges/30-binary-search-trees?isFullScreen=true) | soon |
 | 23 | BST Level-Order Traversal | soon |
 | 24 | More Linked Lists | soon |
 | 25 | Running Time and Complexity | soon |
