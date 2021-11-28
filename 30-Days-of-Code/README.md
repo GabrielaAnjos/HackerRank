@@ -24,11 +24,11 @@ Solutions in C, Java, JavaScript and Python
 | 17 | [More Exceptions](https://www.hackerrank.com/challenges/30-more-exceptions?isFullScreen=true) | [Solution](https://github.com/GabrielaAnjos/HackerRank/tree/main/30-Days-of-Code/Day%2017%20-%20More%20Exceptions) |
 | 18 | [Queues and Stacks](https://www.hackerrank.com/challenges/30-queues-stacks?isFullScreen=true) | [Solution](https://github.com/GabrielaAnjos/HackerRank/tree/main/30-Days-of-Code/Day%2018%20-%20Queues%20and%20Stacks) |
 | 19 | [Interfaces](https://www.hackerrank.com/challenges/30-interfaces?isFullScreen=true) | [Solution](https://github.com/GabrielaAnjos/HackerRank/tree/main/30-Days-of-Code/Day%2019%20-%20Interfaces) |
-| 20 | [Sorting](https://www.hackerrank.com/challenges/30-sorting?isFullScreen=true) | soon |
-| 21 | [Generics](https://www.hackerrank.com/challenges/30-generics?isFullScreen=true) | soon |
-| 22 | [Binary Search Trees](https://www.hackerrank.com/challenges/30-binary-search-trees?isFullScreen=true) | soon |
-| 23 | BST Level-Order Traversal | soon |
-| 24 | More Linked Lists | soon |
+| 20 | [Sorting](https://www.hackerrank.com/challenges/30-sorting?isFullScreen=true) | [Solution](https://github.com/GabrielaAnjos/HackerRank/tree/main/30-Days-of-Code/Day%2020%20-%20Sorting) |
+| 21 | [Generics](https://www.hackerrank.com/challenges/30-generics?isFullScreen=true) | [Solution](https://github.com/GabrielaAnjos/HackerRank/tree/main/30-Days-of-Code/Day%2021%20-%20Generics) |
+| 22 | [Binary Search Trees](https://www.hackerrank.com/challenges/30-binary-search-trees?isFullScreen=true) | [Solution](https://github.com/GabrielaAnjos/HackerRank/tree/main/30-Days-of-Code/Day%2022%20-%20Binary%20Search%20Trees) |
+| 23 | [BST Level-Order Traversal](https://www.hackerrank.com/challenges/30-binary-trees?isFullScreen=true) | [Solution](https://github.com/GabrielaAnjos/HackerRank/tree/main/30-Days-of-Code/Day%2023%20-%20BST%20Level-Order%20Traversal) |
+| 24 | [More Linked Lists](https://www.hackerrank.com/challenges/30-linked-list-deletion?isFullScreen=true) | soon |
 | 25 | Running Time and Complexity | soon |
 | 26 | Nested Logic | soon |
 | 27 | Testing | soon |
