@@ -28,9 +28,9 @@ Solutions in C, Java, JavaScript and Python
 | 21 | [Generics](https://www.hackerrank.com/challenges/30-generics?isFullScreen=true) | [Solution](https://github.com/GabrielaAnjos/HackerRank/tree/main/30-Days-of-Code/Day%2021%20-%20Generics) |
 | 22 | [Binary Search Trees](https://www.hackerrank.com/challenges/30-binary-search-trees?isFullScreen=true) | [Solution](https://github.com/GabrielaAnjos/HackerRank/tree/main/30-Days-of-Code/Day%2022%20-%20Binary%20Search%20Trees) |
 | 23 | [BST Level-Order Traversal](https://www.hackerrank.com/challenges/30-binary-trees?isFullScreen=true) | [Solution](https://github.com/GabrielaAnjos/HackerRank/tree/main/30-Days-of-Code/Day%2023%20-%20BST%20Level-Order%20Traversal) |
-| 24 | [More Linked Lists](https://www.hackerrank.com/challenges/30-linked-list-deletion?isFullScreen=true) | soon |
-| 25 | Running Time and Complexity | soon |
-| 26 | Nested Logic | soon |
-| 27 | Testing | soon |
+| 24 | [More Linked Lists](https://www.hackerrank.com/challenges/30-linked-list-deletion?isFullScreen=true) | [Solution](https://github.com/GabrielaAnjos/HackerRank/tree/main/30-Days-of-Code/Day%2024%20-%20More%20Linked%20Lists) |
+| 25 | [Running Time and Complexity](https://www.hackerrank.com/challenges/30-running-time-and-complexity?isFullScreen=true) | [Solution](https://github.com/GabrielaAnjos/HackerRank/tree/main/30-Days-of-Code/Day%2025%20-%20Running%20Time%20and%20Complexity) |
+| 26 | [Nested Logic](https://www.hackerrank.com/challenges/30-nested-logic?isFullScreen=true) | [Solution](https://github.com/GabrielaAnjos/HackerRank/tree/main/30-Days-of-Code/Day%2026%20-%20Nested%20Logic) |
+| 27 | [Testing](https://www.hackerrank.com/challenges/30-testing?isFullScreen=true) | [Solution](https://github.com/GabrielaAnjos/HackerRank/tree/main/30-Days-of-Code/Day%2027%20-%20Testing) |
 | 28 | RegEx, Patterns, and Intro to Databases | soon |
 | 29 | Bitwise AND | soon |
