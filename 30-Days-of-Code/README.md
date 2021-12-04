@@ -32,5 +32,5 @@ Solutions in C, Java, JavaScript and Python
 | 25 | [Running Time and Complexity](https://www.hackerrank.com/challenges/30-running-time-and-complexity?isFullScreen=true) | [Solution](https://github.com/GabrielaAnjos/HackerRank/tree/main/30-Days-of-Code/Day%2025%20-%20Running%20Time%20and%20Complexity) |
 | 26 | [Nested Logic](https://www.hackerrank.com/challenges/30-nested-logic?isFullScreen=true) | [Solution](https://github.com/GabrielaAnjos/HackerRank/tree/main/30-Days-of-Code/Day%2026%20-%20Nested%20Logic) |
 | 27 | [Testing](https://www.hackerrank.com/challenges/30-testing?isFullScreen=true) | [Solution](https://github.com/GabrielaAnjos/HackerRank/tree/main/30-Days-of-Code/Day%2027%20-%20Testing) |
-| 28 | RegEx, Patterns, and Intro to Databases | soon |
-| 29 | Bitwise AND | soon |
+| 28 | [RegEx, Patterns, and Intro to Databases](https://www.hackerrank.com/challenges/30-regex-patterns?isFullScreen=true) | [Solution](https://github.com/GabrielaAnjos/HackerRank/tree/main/30-Days-of-Code/Day%2028%20-%20RegEx%2C%20Patterns%2C%20and%20Intro%20to%20Databases) |
+| 29 | [Bitwise AND](https://www.hackerrank.com/challenges/30-bitwise-and?isFullScreen=true) | [Solution](https://github.com/GabrielaAnjos/HackerRank/tree/main/30-Days-of-Code/Day%2029%20-%20Bitwise%20AND) |
